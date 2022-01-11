@@ -1,0 +1,36 @@
+.container-1{
+    display: flex;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    margin: 0%;
+    
+    
+}
+h1{
+    font-size: 3em;
+}
+p{
+    font-size: larger;
+    font-weight: 500;
+}
+.homg{
+    color: darkorange;
+}
+.hank {
+    width: 30%;
+    height: 6%;
+    border: 5px solid rgb(247, 97, 11);
+    padding: 2% 4%;
+    background-color: purple;
+    color: skyblue;
+    border-radius: 9%;
+}
+.half-width{
+    width: 40%;
+    margin-left: 6%;
+    margin-top: 2%;
+}
+.half-width img {
+    width: 80%;
+    margin-left: 10%;
+}
